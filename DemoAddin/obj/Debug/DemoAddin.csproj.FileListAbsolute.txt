@@ -1,0 +1,3 @@
+c:\users\ericame\documents\visual studio 2015\Projects\DemoAddin\DemoAddin\bin\Debug\DemoAddin.pdb
+c:\users\ericame\documents\visual studio 2015\Projects\DemoAddin\DemoAddin\obj\Debug\DemoAddin.dll
+c:\users\ericame\documents\visual studio 2015\Projects\DemoAddin\DemoAddin\obj\Debug\DemoAddin.pdb

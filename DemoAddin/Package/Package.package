@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="6b75c6f2-aa16-4df5-9e31-bdc324bd830b" 
+        solutionId="6b75c6f2-aa16-4df5-9e31-bdc324bd830b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="DemoAddin"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="8ac66d6c-3485-4334-8087-5c507d4be984" />
+  </features>
+</package>
