@@ -54,6 +54,7 @@ var guardaItem=function() {
 $(document).ready(function() {
     $("#btn-add").click(function() {
         guardaItem();
+
         //Vaciar las cajar cuando se pulsa el boton de guardar
         $("#input-nombre").val("");
         $("#input-edad").val("");
