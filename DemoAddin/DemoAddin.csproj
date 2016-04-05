@@ -64,6 +64,7 @@
     <Content Include="Personas\Elements.xml" />
     <Content Include="Personas\PersonasInstance\Elements.xml" />
     <Content Include="Personas\Schema.xml" />
+    <Content Include="Scripts\AppRest.js" />
     <Content Include="Scripts\Elements.xml" />
     <Content Include="Scripts\App.js" />
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />

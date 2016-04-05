@@ -16,7 +16,8 @@
     <link rel="Stylesheet" type="text/css" href="../Content/App.css" />
 
     <!-- Add your JavaScript to the following file -->
-    <script type="text/javascript" src="../Scripts/App.js"></script>
+    <!--<script type="text/javascript" src="../Scripts/App.js"></script>--> <!--Comento este script para usar el de abajo-->
+    <script type="text/javascript" src="../Scripts/AppRest.js"></script>
 </asp:Content>
 
 <%-- The markup in the following Content element will be placed in the TitleArea of the page --%>
